@@ -3,7 +3,6 @@ import unittest
 import numpy as np
 
 
-# Assuming the ImageGenerator class is defined in test2.py and imported here.
 from gen_identicon import ImageGenerator
 
 class TestImageGenerator(unittest.TestCase):
