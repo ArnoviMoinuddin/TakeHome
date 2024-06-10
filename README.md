@@ -7,7 +7,7 @@ To install packages before running script:
 python setup.py
 ```
 
-Run script to generate icons. This will take a user input for string and desired size then display and save a .png identicon (this may take a few seconds to load):
+Run script to generate icons. This will take a user input for string and desired size, then display and save a .png  with the corresponding identicon (this may take a few seconds to load):
 
 ```bash
 python gen_identicon.py
