@@ -4,7 +4,7 @@
 To install packages before running script:
 
 ``` bash 
-chmod +x install.sh
+python setup.py
 ```
 
 Run script to generate icons. This will take a user input for string and desired size then display and save a .png identicon:
